@@ -1,6 +1,7 @@
-!.Using cuda() to move data to GPU.
+1.Using cuda() to move data to GPU.
 Original sample runs on CPU!
 GPU is far slower (double the time) than CPU
+
 2. RNN from scratch
 New to pyTorch, as usual, wanted to learn by doing things from scratch. Below are a few blogs that got me going.
 
