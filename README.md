@@ -14,3 +14,5 @@ PyTorch – Tutorial that set me thinking..but this is text classification not u
 
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 https://pytorch.org/tutorials/beginner/former_torchies/nnft_tutorial.html
+
+More details here https://ojaslabs.com/pytorch-rnn-from-scratch
